@@ -1,0 +1,10 @@
+.python-version
+./venv/
+.env
+pyproject.toml
+uv.lock
+/Tools/token.json
+/Tools/Credentials.json
+/Tools/__pycache__/
+/Prompts/__pycache__/
+*.ipynb
