@@ -1,6 +1,6 @@
 # AI-Trip-Planner
 
-![Watch Demo](https://drive.google.com/file/d/1QRgc6d7qEuVSQJY0Y6RjQuGQs05VdeBI/view?usp=sharing)
+![AI Trip Planner Demo](demo.gif)
 
 ## Description
 
@@ -51,6 +51,7 @@ This project uses an **agentic framework** built on [LangGraph](https://github.c
 AI-Trip-Planner/
 ├── main.py                  # Streamlit app and agent orchestration
 ├── requirements.txt         # Python dependencies
+├── demo.gif                 # Demo video
 ├── Prompts/
 │   └── prompts.py           # System and tool prompt templates
 ├── Tools/
